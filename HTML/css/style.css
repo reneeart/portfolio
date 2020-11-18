@@ -1,6 +1,8 @@
-body{background-color: black; padding-top: 200px;}
-img{width: 100%;}
-
+body{background-color:#340D8F; padding-top: 200px;}
+img{
+    height: auto;
+    width: 100%;
+}
 .main-header{ 
     margin-top: 15px;
     color: white; 
@@ -9,17 +11,35 @@ img{width: 100%;}
     opacity: 80%;
 }
 .card{ 
-    border-width: 5px;
-    border-color: lightgreen;
-    background-color: white;
+    border-width: 2px;
+    border-color: #8F8C63;
+    background-color: #996EFF;
     margin: 20px;
     border-radius: 15px;
+    box-shadow: 5px 10px ;
+}
+.card:hover, .card:focus{
+    background-color: #FF6EFF; 
+
 }
 .card-text{
+    color: white;
     text-align: center;
     padding-bottom: 20px;
 }
 .btn{
     width: 100%;
     margin: 5px;
+}
+.btn-main{
+    color: white;
+    background-color: #996EFF;
+    border-color:  #8F8C63;
+}
+.btn-main:focus,.btn-main:hover{
+    background-color:  #FF6EFF;
+}
+.btn-main:active {
+    box-shadow: none;
+    background-color:  #806AF6;
 }
