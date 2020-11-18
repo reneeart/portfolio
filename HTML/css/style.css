@@ -1,7 +1,10 @@
 body{
+    background-image: url(../img/background.png);
     background-color:#333142;
-    padding-top: 200px;}
- 
+    background-repeat: repeat;
+    padding-top: 200px;
+}
+
 img{
     height: auto;
     width: 100%;
