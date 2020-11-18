@@ -55,3 +55,8 @@ img{
 .nav-buttons{
     opacity: 80%;
 }
+.footer{
+    text-align:center;
+    font-weight: Bold;
+    color: #D87178;
+}
