@@ -1,25 +1,27 @@
-body{background-color:#340D8F; padding-top: 200px;}
+body{background-color:#333142; padding-top: 200px;}
 img{
     height: auto;
     width: 100%;
 }
 .main-header{ 
-    margin-top: 15px;
-    color: white; 
+    background-color: white;
+    border-radius: 20px;
+    margin: 0 auto;
+    color: black; 
     text-align: center;
     padding-bottom: 15px;
-    opacity: 80%;
+    opacity: 78%;
 }
 .card{ 
     border-width: 2px;
-    border-color: #8F8C63;
-    background-color: #996EFF;
+    border-color: #D87178;
+    background-color: #2B3B52;
     margin: 20px;
     border-radius: 15px;
     box-shadow: 5px 10px ;
 }
 .card:hover, .card:focus{
-    background-color: #FF6EFF; 
+    background-color: #D87178; 
 
 }
 .card-text{
@@ -33,13 +35,14 @@ img{
 }
 .btn-main{
     color: white;
-    background-color: #996EFF;
-    border-color:  #8F8C63;
+    background-color: #2B3B52;
+    border-color:  #D87178;
 }
 .btn-main:focus,.btn-main:hover{
-    background-color:  #FF6EFF;
+    color: white;
+    background-color:  #D87178;
 }
 .btn-main:active {
     box-shadow: none;
-    background-color:  #806AF6;
+    background-color:  #D87178;
 }
