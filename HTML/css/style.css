@@ -1,8 +1,7 @@
 body{
     background-image: url(../img/background.png);
     background-color:#333142;
-    background-repeat: repeat;
-    padding-top: 200px;
+    padding-top: 350px;
 }
 
 img{
@@ -10,13 +9,11 @@ img{
     width: 100%;
 }
 .main-header{ 
-    background-color: white;
     border-radius: 5px;
     margin: 0 auto;
     color: black; 
     text-align: center;
     padding-bottom: 15px;
-    opacity: 78%;
 }
 .card{ 
     border-width: 2px;
@@ -51,4 +48,10 @@ img{
 .btn-main:active {
     box-shadow: none;
     background-color:  #D87178;
+}
+.logo{
+    width: 400px;
+}
+.nav-buttons{
+    opacity: 80%;
 }
