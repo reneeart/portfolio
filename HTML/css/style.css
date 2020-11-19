@@ -60,3 +60,24 @@ img{
     font-weight: Bold;
     color: #D87178;
 }
+.card-price{ 
+    border-width: 2px;
+    border-color: #AAACD6;
+    background-color: #D87178;
+    margin: 20px;
+    border-radius: 15px;
+    box-shadow: 5px 10px ;
+}
+.card-title{
+    text-align: center;
+    font-weight: Bold;
+    text-decoration: underline;
+    color: #333142;
+    padding-top:20px;
+    
+}
+.card-subtitle{
+    text-align: center;
+    font-weight: 400;
+    color: #333142;
+}
