@@ -19,8 +19,8 @@ img{
     border-width: 2px;
     border-color: #D87178;
     background-color: #253133;
-    margin: 20px;
-    border-radius: 15px;
+    margin: 10px;
+    border-radius: 5px;
     box-shadow: 5px 10px ;
 }
 .card:hover, .card:focus{
@@ -31,34 +31,6 @@ img{
     color: white;
     text-align: center;
     padding-bottom: 20px;
-}
-.btn{
-    width: 100%;
-    margin: 5px;
-}
-.btn-main{
-    color: white;
-    background-color: #AAACD6;
-    border-color:  #D87178;
-}
-.btn-main:focus,.btn-main:hover{
-    color: white;
-    background-color:  #D87178;
-}
-.btn-main:active {
-    box-shadow: none;
-    background-color:  #D87178;
-}
-.logo{
-    width: 400px;
-}
-.nav-buttons{
-    opacity: 80%;
-}
-.footer{
-    text-align:center;
-    font-weight: Bold;
-    color: #D87178;
 }
 .card-price{ 
     border-width: 2px;
@@ -95,4 +67,34 @@ img{
     border-color: #AAACD6;
     border-radius: 50%;
     padding:20px;
+}
+.btn{
+    width: 100%;
+    margin: 5px;
+}
+.btn-main{
+    color: white;
+    background-color: #AAACD6;
+    border-color:  #D87178;
+}
+.btn-main:focus,.btn-main:hover{
+    color: white;
+    background-color:  #D87178;
+    border-width:2px;
+    border-color:#AAACD6;
+}
+.btn-main:active {
+    box-shadow: none;
+    background-color:  #D87178;
+}
+.logo{
+    width: 400px;
+}
+.nav-buttons{
+    opacity: 80%;
+}
+.footer{
+    text-align:center;
+    font-weight: Bold;
+    color: #D87178;
 }
