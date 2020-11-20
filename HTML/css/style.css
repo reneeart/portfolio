@@ -76,6 +76,7 @@ img{
     color: white;
     background-color: #AAACD6;
     border-color:  #D87178;
+    border-width:2px;
 }
 .btn-main:focus,.btn-main:hover{
     color: white;
