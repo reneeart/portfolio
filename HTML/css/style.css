@@ -13,18 +13,21 @@ img{
     margin: 0 auto;
     color: black; 
     text-align: center;
+    padding-top: 15px;
     padding-bottom: 15px;
 }
 .card{ 
     border-width: 2px;
-    border-color: #D87178;
-    background-color: #253133;
+    border-color: #AAACD6;
+    background-color: #D87178;
     margin: 10px;
     border-radius: 5px;
     box-shadow: 5px 10px ;
 }
 .card:hover, .card:focus{
-    background-color: #D87178; 
+    border-width: 2px;
+    border-color: #D87178;
+    background-color: #253133; 
 
 }
 .card-text{
@@ -36,7 +39,7 @@ img{
     border-width: 2px;
     border-color: #AAACD6;
     background-color: #D87178;
-    margin: 20px;
+    margin: 10px;
     border-radius: 15px;
     box-shadow: 5px 10px ;
 }
@@ -44,7 +47,7 @@ img{
     border-width: 2px;
     border-color: #AAACD6;
     background-color: #D87178;
-    margin: 20px;
+    margin: 10px;
     border-radius: 15px;
     box-shadow: 5px 10px ;
 
@@ -73,10 +76,10 @@ img{
     margin: 5px;
 }
 .btn-main{
-    color: white;
+    color: #333142;
+    font-weight: bold;
     background-color: #AAACD6;
-    border-color:  #D87178;
-    border-width:2px;
+    
 }
 .btn-main:focus,.btn-main:hover{
     color: white;
