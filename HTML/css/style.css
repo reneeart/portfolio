@@ -13,7 +13,7 @@ img{
     margin: 0 auto;
     color: black; 
     text-align: center;
-    padding-top: 15px;
+    padding-top: 25px;
     padding-bottom: 15px;
 }
 .card{ 
@@ -79,7 +79,6 @@ img{
     color: #333142;
     font-weight: bold;
     background-color: #AAACD6;
-    
 }
 .btn-main:focus,.btn-main:hover{
     color: white;
@@ -93,6 +92,7 @@ img{
 }
 .logo{
     width: 400px;
+    padding-bottom: 15px;
 }
 .nav-buttons{
     opacity: 80%;
