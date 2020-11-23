@@ -13,7 +13,6 @@ img{
     margin: 0 auto;
     color: black; 
     text-align: center;
-    padding-top: 25px;
     padding-bottom: 15px;
 }
 .card{ 
@@ -92,6 +91,7 @@ img{
 }
 .logo{
     width: 400px;
+    padding-top: 15px;
     padding-bottom: 15px;
 }
 .nav-buttons{
