@@ -5,7 +5,6 @@ body{
 }
 
 img{
-    
     padding: 10px;
     height: auto;
     width: 100%;
@@ -67,7 +66,7 @@ img{
     color: #333142;
     padding-top: 10px;
 }
-.card-img{
+.self-img{
     border-width: 2px;
     border-color: #AAACD6;
     border-radius: 50%;
