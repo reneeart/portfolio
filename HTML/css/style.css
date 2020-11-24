@@ -104,3 +104,14 @@ img{
     font-weight: Bold;
     color: #D87178;
 }
+.sub-header{
+    text-align:center;
+    font-weight: Bold;
+    color: white;
+}
+.card-header{
+    background-color: #AAACD6;
+    margin: 10px;
+    box-shadow: 5px 10px ;
+    opacity: 85%;
+}
