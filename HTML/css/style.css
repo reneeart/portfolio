@@ -91,6 +91,23 @@ img{
     box-shadow: none;
     background-color:  #D87178;
 }
+.btn-contact{
+    width:200px;
+    margin:5px;
+    color: #333142;
+    font-weight: bold;
+    background-color: #AAACD6
+}
+.btn-contact:focus,.btn-contact:hover{
+    color: white;
+    background-color:  #D87178;
+    border-width:2px;
+    border-color:#AAACD6;
+}
+.btn-contact:active {
+    box-shadow: none;
+    background-color:  #D87178;
+}
 .logo{
     width: 400px;
     padding-top: 15px;
