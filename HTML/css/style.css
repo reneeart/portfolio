@@ -8,7 +8,7 @@ body{
 @media only screen and (max-height: 700px)
 {
     body{
-        padding-top: 17rem;
+        padding-top: 15rem;
     }
 }
 
@@ -30,7 +30,6 @@ body{
 
 
 img{
-    padding: 10px;
     height: auto;
     width: 100%;
 }
@@ -42,7 +41,6 @@ img{
     padding-bottom: 15px;
 }
 .card{ 
-    border-width: 2px;
     border-color: #333142;
     background-color: #D87178;
     margin: 10px;
@@ -135,11 +133,19 @@ img{
     margin: auto;
     width: 95%;
     max-width: 550px;
-    max-height: 15%;
     padding: 0px;
     padding-top: 2%;
     padding-bottom: 2%;
 }
+@media (orientation: landscape) and (max-width: 1000px) {
+    body{
+        padding-top: 10rem;
+    }
+    .logo {
+        max-width: 175px;
+    }
+  }
+
 .nav-buttons{
     opacity: 90%;
 }
@@ -161,4 +167,10 @@ img{
 }
 .video{
     padding-top: 20px;
+}
+.bordered-image
+{
+    border-color: #333142;
+    border-width: 100px;
+    border-radius: 20px;
 }
