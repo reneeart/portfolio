@@ -1,8 +1,33 @@
 body{
     background-image: url(../img/background.png);
     background-color:#333142;
-    padding-top: 350px;
+    padding-top: 20rem;
 }
+
+
+@media only screen and (max-height: 700px)
+{
+    body{
+        padding-top: 17rem;
+    }
+}
+
+@media only screen and (min-width: 900px)
+{
+    body{
+        padding-top: 22rem;
+    }
+}
+
+
+@media only screen and (min-width: 1500px)
+{
+    body{
+        padding-top: 25rem;
+    }
+}
+
+
 
 img{
     padding: 10px;
@@ -71,10 +96,20 @@ img{
     border-color: #AAACD6;
     border-radius: 50%;
     padding:20px;
+    max-width: 400px;
 }
 .btn{
-    width: 100%;
-    margin: 5px;
+    width: 94%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 1%;
+}
+
+@media only screen and (max-width: 570px)
+{
+    .no-padding{
+        padding-top: 0;
+    }
 }
 .btn-main{
     color: #333142;
@@ -92,9 +127,15 @@ img{
     background-color:  #D87178;
 }
 .logo{
-    width: 400px;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    display: block;
+    margin-left: auto;
+    margin: auto;
+    width: 95%;
+    max-width: 550px;
+    max-height: 15%;
+    padding: 0px;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 .nav-buttons{
     opacity: 85%;
