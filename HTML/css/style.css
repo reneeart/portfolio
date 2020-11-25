@@ -43,10 +43,10 @@ img{
 }
 .card{ 
     border-width: 2px;
-    border-color: #AAACD6;
+    border-color: #333142;
     background-color: #D87178;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 15px;
     box-shadow: 5px 10px ;
 }
 .card:hover, .card:focus{
