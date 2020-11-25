@@ -115,6 +115,9 @@ img{
     color: #333142;
     font-weight: bold;
     background-color: #AAACD6;
+    border-color:   #333142;
+    border-width: 1px;
+    border-radius: 30px;
 }
 .btn-main:focus,.btn-main:hover{
     color: white;
@@ -138,7 +141,7 @@ img{
     padding-bottom: 2%;
 }
 .nav-buttons{
-    opacity: 85%;
+    opacity: 90%;
 }
 .footer{
     text-align:center;
