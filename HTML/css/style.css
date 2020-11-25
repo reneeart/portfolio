@@ -42,7 +42,7 @@ img{
 }
 .card{ 
     border-color: #333142;
-    background-color: #D87178;
+    background: radial-gradient(circle, rgba(171,166,214,1) 0%, rgba(95,86,176,1) 50%, rgba(171,166,214,1) 100%);
     margin: 10px;
     border-radius: 15px;
     box-shadow: 5px 10px ;
@@ -54,8 +54,9 @@ img{
 
 }
 .card-text{
-    color: white;
+    color: #333142;
     text-align: center;
+    padding-top: 10px;
     padding-bottom: 10px;
 }
 .card-price{ 
@@ -107,15 +108,19 @@ img{
 {
     .no-padding{
         padding-top: 0;
+        padding-bottom: 0;
     }
 }
 .btn-main{
     color: #333142;
     font-weight: bold;
-    background-color: #AAACD6;
+    font-size: larger;
+    background: radial-gradient(circle, rgba(171,166,214,1) 0%, rgba(135,128,196,1) 50%, rgba(95,86,176,1) 100%);
     border-color:   #333142;
     border-width: 1px;
     border-radius: 30px;
+    box-shadow: 1px 3px black;
+    margin-bottom: 10px;
 }
 .btn-main:focus,.btn-main:hover{
     color: white;
