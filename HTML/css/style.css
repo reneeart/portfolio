@@ -87,9 +87,16 @@ img{
 .card-subtitle{
     text-align: center;
     font-weight: 400;
-    text-decoration:underline;
-    color: #333142;
+    color:#aee2ca;
     padding-top: 10px;
+    padding-bottom:10px;
+}
+.text-box{
+    background-color: #333142;
+    color:white; 
+    padding:10px;
+    margin:10px;
+    border-radius: 5px;"
 }
 .self-img{
     border-width: 2px;
