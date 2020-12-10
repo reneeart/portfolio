@@ -98,11 +98,26 @@ img{
     border-radius: 5px;
     opacity:95%;
 }
+.commission-header{
+    background-color: black;
+    color:#D87178;
+    font-weight:bolder;
+    font-variant: small-caps;
+    text-align: center;
+    padding-top:50px;
+    padding-bottom:50px;
+    margin-top:20px;
+    margin-bottom:20px;
+    border-radius: 5px;
+    opacity:50%;
+
+}
 .commission-title{
     background-color: #333142;
     color:#D87178; 
-    font-weight:bold;
+    font-weight:600;
     text-align: center;
+    font-variant: small-caps;
     padding:10px;
     margin:10px;
     border-radius: 5px;
