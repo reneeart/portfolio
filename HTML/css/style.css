@@ -97,6 +97,7 @@ img{
     margin:10px;
     border-radius: 5px;
     opacity:95%;
+    box-shadow: 5px 3px 5px #333142 ;
 }
 .commission-header{
     background-color: #D87178;
