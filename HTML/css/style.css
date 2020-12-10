@@ -78,7 +78,7 @@ img{
 }
 .card-title{
     text-align: center;
-    font-weight: Bold;
+  
     color: #333142;
     padding:20px;
     
@@ -87,7 +87,6 @@ img{
     text-align: center;
     color:#D87178; 
     font-weight: 400;
-    
     padding: 10px;
    
 }
