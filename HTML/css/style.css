@@ -133,6 +133,7 @@ img{
     box-shadow: 5px 3px 5px #333142 ;
 }
 .self-img{
+    align:center;
     border-width: 2px;
     border-color: #AAACD6;
     border-radius: 50%;
