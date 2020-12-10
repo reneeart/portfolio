@@ -70,7 +70,7 @@ img{
 .card-about{
     border-width: 2px;
     border-color: #AAACD6;
-    background: linear-gradient(90deg, rgba(95,86,176,1) 0%, rgba(255,255,255,1) 33%,rgba(255,255,255,1) 66%, rgba(95,86,176,1) 100%);
+    background: linear-gradient(90deg, rgb(95, 86, 176) 0%, rgba(255,255,255,1) 33%,rgba(255,255,255,1) 66%, rgba(95,86,176,1) 100%);
     margin: 10px;
     border-radius: 15px;
     box-shadow: 5px 10px ;
@@ -107,6 +107,14 @@ img{
     margin:10px;
     border-radius: 5px;
     opacity:95%;
+}
+.commission-img{
+    background-color:black;
+    width:200px;
+    height:200px;
+    padding:10px;
+    margin:10px;
+    box-shadow: 5px 3px 5px #333142 ;
 }
 .self-img{
     border-width: 2px;
