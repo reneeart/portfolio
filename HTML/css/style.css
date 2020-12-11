@@ -78,16 +78,17 @@ img{
 }
 .card-title{
     text-align: center;
-    color: #333142;
+    color: #2f2440;
     font-weight: bold;
-    padding:20px;
+    padding:10px;
     
 }
 .card-subtitle{
     text-align: center;
-    color:#B1E6CF; 
+    color:#333142; 
     font-weight: 400;
-    padding: 10px;
+    padding-bottom:10px;
+    
    
 }
 .text-box{
