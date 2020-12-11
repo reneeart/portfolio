@@ -163,7 +163,7 @@ img{
     color: #333142;
     font-weight: bold;
     font-size: larger;
-    background: radial-gradient(circle, rgba(171,166,214,1) 0%, rgba(135,128,196,1) 50%, rgba(95,86,176,1) 100%);
+    background: radial-gradient(circle,  rgba(95,86,176,1) 0%, rgba(135,128,196,1) 50%, rgba(216,113,120,1) 100%);
     border-color:   #333142;
     border-width: 1px;
     border-radius: 30px;
@@ -172,9 +172,10 @@ img{
 }
 .btn-main:focus,.btn-main:hover{
     color: white;
+    background: radial-gradient(circle, rgba(216,113,120,1) 0%, rgba(95,86,176,1) 100%);
     background-color:  #D87178;
     border-width:2px;
-    border-color:#AAACD6;
+    border-color:#2f2440;
 }
 .btn-main:active {
     box-shadow: none;
