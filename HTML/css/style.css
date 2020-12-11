@@ -59,21 +59,7 @@ img{
     padding-top: 10px;
     padding-bottom: 10px;
 }
-.card-price{ 
-    border-width: 2px;
-    border-color: #AAACD6;
-    background: linear-gradient(90deg, rgba(95,86,176,1) 0%, rgba(255,255,255,1) 33%,rgba(255,255,255,1) 66%, rgba(95,86,176,1) 100%);
-    margin: 10px;
-    border-radius: 15px;
-    box-shadow: 5px 10px ;
-}
-.card-about{
-    border-width: 2px;
-    border-color: #AAACD6;
-    background: linear-gradient(90deg, rgb(95, 86, 176) 0%, rgba(255,255,255,1) 33%,rgba(255,255,255,1) 66%, rgba(95,86,176,1) 100%);
-    margin: 10px;
-    border-radius: 15px;
-    box-shadow: 5px 10px ;
+
 
 }
 .card-title{
