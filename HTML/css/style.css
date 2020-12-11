@@ -188,7 +188,7 @@ img{
     width: 95%;
     max-width: 550px;
     padding: 0px;
-    padding-top: 2%;
+    padding-top: 4%;
     padding-bottom: 2%;
 }
 @media (orientation: landscape) and (max-width: 1000px) {
