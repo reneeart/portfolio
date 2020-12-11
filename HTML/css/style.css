@@ -160,10 +160,10 @@ img{
     }
 }
 .btn-main{
-    color: #2f2440;
-    font-weight: bold;
-    font-size: larger;
-    background: radial-gradient(circle, rgba(171,166,214,1) 0%, rgba(95,86,176,1) 50%), rgba(47,36,64,1) 100%;
+    color: #B1E6CF;
+
+    font-size: x-large;
+    background: radial-gradient(circle, rgba(95,86,176,1) 0%, rgba(95,86,176,1) 50%), rgba(47,36,64,1) 100%;
     border-color:   #333142;
     border-width: 1px;
     border-radius: 30px;
