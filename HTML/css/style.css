@@ -102,7 +102,7 @@ img{
     box-shadow: 5px 3px 5px #333142 ;
 }
 .commission-header{
-    background:linear-gradient(90deg, rgb(47, 36, 64) 0%, rgba(255,255,255,1) 33%,rgba(255,255,255,1) 66%, rgba(47,36,64,1) 100%);
+    background:linear-gradient(90deg, rgb(47, 36, 64) 0%, rgba(216,255,255,1) 33%,rgba(216,255,255,1) 66%, rgba(47,36,64,1) 100%);
     color:#2f2440;
     font-weight:bolder;
     text-align: center;
