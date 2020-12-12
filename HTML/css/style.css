@@ -80,6 +80,7 @@ img{
     text-align: center;
     color: #2f2440;
     font-weight: bold;
+    font-family: cursive;
     padding:10px;
     
 }
@@ -87,6 +88,7 @@ img{
     text-align: center;
     color:#B1E6CF; 
     font-weight: 400;
+    font-family: cursive;
     padding:10px;
     
    
@@ -122,6 +124,7 @@ img{
     background-color: #333142;
     color:white; 
     font-weight:600;
+    font-family: cursive;
     text-align: center;
     padding:10px;
     margin:10px;
