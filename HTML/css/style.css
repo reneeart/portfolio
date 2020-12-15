@@ -81,7 +81,8 @@ img{
     color: #2f2440;
     font-weight: bold;
     font-family: cursive;
-    padding:10px;
+    margin:5px;
+
     
 }
 .card-subtitle{
@@ -89,7 +90,7 @@ img{
     color:#B1E6CF; 
     font-weight: 400;
     font-family: cursive;
-    padding:10px;
+    padding-top:10px;
 }
 .text-box{
     background-color: #333142;
@@ -230,8 +231,6 @@ img{
     margin-right: 10px;
 }
 .subtext{
-    margin:5px;
-    padding:0px;
     font-size:smaller;
     text-align: center;
 } 
