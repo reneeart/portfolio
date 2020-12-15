@@ -229,3 +229,9 @@ img{
     height:30px;
     margin-right: 10px;
 }
+.subtext{
+    margin:5px;
+    padding:0px;
+    font-size:smaller;
+    text-align: center;
+} 
